@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+src/config/.env
+models/
+src/audio/input/*
+src/audio/output/*
+!src/audio/**/.gitkeep
